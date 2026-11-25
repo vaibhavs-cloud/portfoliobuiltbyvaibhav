@@ -87,7 +87,7 @@
     ],
     "liveUrl": "https://builtbyvaibhav.bylance.in",
     "repoUrl": "https://github.com/vaibhav7087/portfoliobuiltbyvaibhav",
-    "updatedAt": "2026-11-24T02:28:18Z",
+    "updatedAt": "2026-11-25T23:43:48Z",
     "hasDetailPage": false
   },
   {
@@ -319,5 +319,19 @@
     "repoUrl": "https://github.com/vaibhav7087/tutorials",
     "updatedAt": "2026-11-06T22:54:19Z",
     "hasDetailPage": false
+  },
+  {
+    "slug": "structured-learning-skill",
+    "name": "Structured Learning Skill",
+    "tagline": "Structured Learning Skill project",
+    "description": "",
+    "status": "experiment",
+    "featuredRank": null,
+    "stack": [],
+    "liveUrl": null,
+    "repoUrl": null,
+    "updatedAt": "2026-11-25T23:44:22.674Z",
+    "hasDetailPage": false,
+    "auto": true
   }
 ]

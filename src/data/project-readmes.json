@@ -42,5 +42,6 @@
     "html": "<p>This is a Next.js template with shadcn/ui.</p>\n<h2>Adding components</h2>\n<p>To add components to your app, run the following command:</p>\n<pre><code class=\"language-bash\">npx shadcn@latest add button\n</code></pre>\n<p>This will place the ui components in the <code>components</code> directory.</p>\n<h2>Using components</h2>\n<p>To use the components in your app, import them as follows:</p>\n<pre><code class=\"language-tsx\">import { Button } from &quot;@/components/ui/button&quot;;\n</code></pre>\n",
     "description": "\nThis is a Next.js template with shadcn/ui.\n\n## Adding components\n\nTo add components to your app, run the following command:\n\n```bash\nnpx shadcn@latest add button\n```\n\nThis will place the ui components in the `components` directory.\n\n## Using components\n\nTo use the components in your app, import them as follows:\n\n```tsx\nimport { Button } from \"@/components/ui/button\";\n```"
   },
-  "tutorials": null
+  "tutorials": null,
+  "structured-learning-skill": null
 }
